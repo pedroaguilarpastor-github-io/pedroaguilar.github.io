@@ -1,5 +1,11 @@
-<htm>
 
-<head>
-<title>Pedro´s page</title>
-</head>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+    </head>
+    <style>
+ <p><font face="hola" <a href="test.htm">Test </a></font></p>
+        
+    </body>
+</html>
